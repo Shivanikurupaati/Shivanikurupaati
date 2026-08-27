@@ -85,6 +85,32 @@ Aspiring AI & Software Developer • Exploring Intelligent Systems • Building 
 # 🚀 Featured Projects
 
 ---
+## 🧠 NEXUS — Multi-Agent AI System for Global Clinical Trial Coordination
+
+> An AI-powered multi-agent system designed to coordinate and automate different aspects of global clinical trials.
+
+### Features
+
+- Multi-agent orchestration
+- Clinical trial workflow coordination
+- Risk monitoring
+- Document compliance
+- Participant communication
+- Visit scheduling
+- Data monitoring and synthesis
+
+### Tech
+
+`Python`  
+`FastAPI`  
+`Google Cloud`  
+`Firebase`  
+`BigQuery`  
+`Docker`
+
+🔗 [View Project](https://github.com/Shivanikurupaati/NEXUS-MUTLI-AGENT-AI-SYSTEM-FOR-GLOBAL-CLINICAL-TRIAL-COORDINATION)
+
+---
 
 ## 🧠 LLM-Powered Dynamic Pricing Engine with Causal Inference
 
@@ -130,8 +156,6 @@ Aspiring AI & Software Developer • Exploring Intelligent Systems • Building 
 🔗 [View Project](https://github.com/Shivanikurupaati/SQl-Injection-scanner)
 
 ---
-
-
 
 
 ## 📊 Data Analytics Projects
