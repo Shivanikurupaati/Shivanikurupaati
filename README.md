@@ -156,6 +156,34 @@ Aspiring AI & Software Developer • Exploring Intelligent Systems • Building 
 🔗 [View Project](https://github.com/Shivanikurupaati/SQl-Injection-scanner)
 
 ---
+---
+
+## 💬 NLP-Based Sentiment Analysis
+
+> An NLP and Machine Learning application that analyzes text and predicts sentiment to help understand opinions and feedback.
+
+### Features
+
+- Sentiment prediction
+- Text preprocessing
+- TF-IDF vectorization
+- Machine Learning-based classification
+- Bulk sentiment analysis
+- File upload and analysis
+- Interactive application interface
+
+### Tech
+
+`Python`  
+`NLP`  
+`Machine Learning`  
+`Scikit-learn`  
+`TF-IDF`  
+`Streamlit`
+
+🔗 [View Project](https://github.com/Shivanikurupaati/NLP-Based-Sentiment-Analysis)
+
+---
 
 
 ## 📊 Data Analytics Projects
