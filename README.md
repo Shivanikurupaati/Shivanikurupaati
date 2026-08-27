@@ -84,32 +84,55 @@ Aspiring AI & Software Developer • Exploring Intelligent Systems • Building 
 
 # 🚀 Featured Projects
 
-## 🧠 NEXUS — Multi-Agent AI System for Global Clinical Trial Coordination
+---
 
-> An AI-powered multi-agent system designed to coordinate and automate different aspects of global clinical trials.
+## 🧠 LLM-Powered Dynamic Pricing Engine with Causal Inference
 
-### Features
+> An AI-powered dynamic pricing system for retail and e-commerce that combines Large Language Models with causal inference to support intelligent pricing decisions.
 
-- Multi-agent orchestration
-- Clinical trial workflow coordination
-- Risk monitoring
-- Document compliance
-- Participant communication
-- Visit scheduling
-- Data monitoring and synthesis
+### Focus Areas
+
+- Dynamic pricing
+- Causal inference
+- Retail and e-commerce analytics
+- AI-powered decision support
+- Data-driven pricing strategies
 
 ### Tech
 
 `Python`  
-`FastAPI`  
-`Google Cloud`  
-`Firebase`  
-`BigQuery`  
-`Docker`
+`LLMs`  
+`Machine Learning`  
+`Causal Inference`
 
-🔗 [View Project](https://github.com/Shivanikurupaati/NEXUS-MUTLI-AGENT-AI-SYSTEM-FOR-GLOBAL-CLINICAL-TRIAL-COORDINATION)
+🔗 [View Project](https://github.com/Shivanikurupaati/LLM-Powered-Dynamic-Pricing-Engine-with-Causal-Inference-for-Retail-and-E-Commerce)
 
 ---
+
+## 🛡️ SQL Injection Scanner
+
+> A security-focused tool designed to identify potential SQL injection vulnerabilities for authorized security testing.
+
+### Features
+
+- SQL injection vulnerability detection
+- Automated testing
+- Input and URL analysis
+- Security-focused scanning
+- Ethical and authorized testing
+
+### Tech
+
+`Python`  
+`SQL`  
+`Cybersecurity`
+
+🔗 [View Project](https://github.com/Shivanikurupaati/SQl-Injection-scanner)
+
+---
+
+
+
 
 ## 📊 Data Analytics Projects
 
