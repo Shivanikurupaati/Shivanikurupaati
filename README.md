@@ -17,7 +17,7 @@ Aspiring AI & Software Developer • Exploring Intelligent Systems • Building 
 
 # 💫 About Me
 
-🎓 Computer Science Graduate / Aspiring Software Developer
+🎓 B.Tech in Computer Science (AI)
 
 💻 Interested in Software Development, Artificial Intelligence, Data Analytics, and building practical applications.
 
@@ -158,18 +158,16 @@ Aspiring AI & Software Developer • Exploring Intelligent Systems • Building 
 
 <p align="left">
 
-<a href="https://github.com/Shivanikurupaati">💻 GitHub</a>
+<a href="https://www.linkedin.com/in/shivani-kurupaati-b273b635b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Shivanikurupaati" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+</a>
+
+<br><br>
+
+📧 <b>Email:</b> shivanikurupaati@gmail.com
 
 </p>
-
----
-
-<div align="center">
-
-### 💭 Quote
-
-*"First, solve the problem. Then, write the code."*
-
-⭐ Feel free to explore my repositories and projects!
-
-</div>
