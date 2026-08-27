@@ -218,3 +218,14 @@ Aspiring AI & Software Developer • Exploring Intelligent Systems • Building 
 📧 <b>Email:</b> shivanikurupaati@gmail.com
 
 </p>
+<div align="center">
+
+### 💭 My Approach
+
+> **Stop. Think. Break it down. Then code.** 🧠💻
+
+*Because good code doesn't start with typing — it starts with understanding the problem.*
+
+⭐ Explore my projects and follow along as I LEARN, BUILD , and IMPROVE.
+
+</div>
