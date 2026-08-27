@@ -226,6 +226,6 @@ Aspiring AI & Software Developer • Exploring Intelligent Systems • Building 
 
 *Because good code doesn't start with typing — it starts with understanding the problem.*
 
-⭐ Explore my projects and follow along as I LEARN, BUILD , and IMPROVE.
+⭐ Explore my projects and follow along as I Learn, Build, and Improve.
 
 </div>
